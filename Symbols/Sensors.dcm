@@ -22,4 +22,8 @@ $CMP Venus838LPx-L
 D GPS, 50 hz, ROM, Internal LDO
 $ENDCMP
 #
+$CMP Venus838LPx-L-SPC
+D GPS, 50 hz, ROM, Internal LDO, Space variant
+$ENDCMP
+#
 #End Doc Library
